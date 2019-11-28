@@ -1,0 +1,11 @@
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\bin\Debug\netcoreapp3.0\BasicBankingSystem.exe
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\bin\Debug\netcoreapp3.0\BasicBankingSystem.deps.json
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\bin\Debug\netcoreapp3.0\BasicBankingSystem.runtimeconfig.json
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\bin\Debug\netcoreapp3.0\BasicBankingSystem.runtimeconfig.dev.json
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\bin\Debug\netcoreapp3.0\BasicBankingSystem.dll
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\bin\Debug\netcoreapp3.0\BasicBankingSystem.pdb
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\obj\Debug\netcoreapp3.0\BasicBankingSystem.csprojAssemblyReference.cache
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\obj\Debug\netcoreapp3.0\BasicBankingSystem.AssemblyInfoInputs.cache
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\obj\Debug\netcoreapp3.0\BasicBankingSystem.AssemblyInfo.cs
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\obj\Debug\netcoreapp3.0\BasicBankingSystem.dll
+C:\Users\Mico\Desktop\C#\BasicBankingSystem\BasicBankingSystem\obj\Debug\netcoreapp3.0\BasicBankingSystem.pdb
